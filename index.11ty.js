@@ -249,8 +249,8 @@ class Index extends Twitter {
 				return b.date - a.date;
 			}).slice(0, 15);
 		let allTweets = tweets.filter(tweet => this.isOriginalPost(tweet)).sort(function(a,b) {
-			return b.date - a.date;
-		}).slice(0, 15);
+				return b.date - a.date;
+			});
 		let recentTweetsHtml = await Promise.all(mostRecentTweets.map(tweet => this.renderTweet(tweet)));
 		let allTweetsHtml = await Promise.all(allTweets.map(tweet => this.renderTweet(tweet)));
 		let mostPopularTweetsHtml = await Promise.all(this.getMostPopularTweets(tweets).slice(0, 6).map(tweet => this.renderTweet(tweet, { showPopularity: true })));
@@ -279,20 +279,18 @@ class Index extends Twitter {
 		</is-land>
 
 		<div>
-			<h2><a href="/recent/">All Tweets:</a></h2>
-
 			<ol class="tweets tweets-linear-list h-feed hfeed" id="tweets-recent-home">
 				${allTweetsHtml.join("")}
 			</ol>
 		</div>
 
+		<!--
 		<div>
 			<h2><a href="/popular/">Popular:</a></h2>
 			<ol class="tweets tweets-linear-list">
 				${mostPopularTweetsHtml.join("")}
 			</ol>
 		</div>
-		<!--
 		<h2 id="retweets">I’ve retweeted other tweets ${this.renderNumber(retweetCount)} times (${this.renderPercentage(retweetCount, tweetCount)})</h2>
 		<div class="lo" style="--lo-stackpoint: 20em">
 			<div class="lo-c">
