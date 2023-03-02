@@ -53,6 +53,9 @@ module.exports = async function(data) {
 			<link rel="canonical" href="/${data.tweet.id_str}/">
 			<meta http-equiv="refresh" content="0; url=/${data.tweet.id_str}/">
 			` : ""}
+
+		<script data-goatcounter="https://twitter.goatcounter.com/count"
+				async src="//gc.zgo.at/count.js"></script>
 	</head>
 	<body>
 		<header>

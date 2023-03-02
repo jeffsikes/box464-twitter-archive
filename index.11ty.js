@@ -248,7 +248,11 @@ class Index extends Twitter {
 		let mostRecentTweets = tweets.filter(tweet => this.isOriginalPost(tweet)).sort(function(a,b) {
 				return b.date - a.date;
 			}).slice(0, 15);
+		let allTweets = tweets.filter(tweet => this.isOriginalPost(tweet)).sort(function(a,b) {
+			return b.date - a.date;
+		}).slice(0, 15);
 		let recentTweetsHtml = await Promise.all(mostRecentTweets.map(tweet => this.renderTweet(tweet)));
+		let allTweetsHtml = await Promise.all(allTweets.map(tweet => this.renderTweet(tweet)));
 		let mostPopularTweetsHtml = await Promise.all(this.getMostPopularTweets(tweets).slice(0, 6).map(tweet => this.renderTweet(tweet, { showPopularity: true })));
 
 		let links = this.getAllLinks(tweets);
@@ -275,10 +279,10 @@ class Index extends Twitter {
 		</is-land>
 
 		<div>
-			<h2><a href="/recent/">Recent:</a></h2>
+			<h2><a href="/recent/">All Tweets:</a></h2>
 
 			<ol class="tweets tweets-linear-list h-feed hfeed" id="tweets-recent-home">
-				${recentTweetsHtml.join("")}
+				${allTweetsHtml.join("")}
 			</ol>
 		</div>
 
@@ -288,7 +292,7 @@ class Index extends Twitter {
 				${mostPopularTweetsHtml.join("")}
 			</ol>
 		</div>
-
+		<!--
 		<h2 id="retweets">I’ve retweeted other tweets ${this.renderNumber(retweetCount)} times (${this.renderPercentage(retweetCount, tweetCount)})</h2>
 		<div class="lo" style="--lo-stackpoint: 20em">
 			<div class="lo-c">
@@ -354,13 +358,9 @@ class Index extends Twitter {
 			${topHashes.slice(0, 5).map(hash => `<li><code>${hash.tag}</code> used ${hash.count} times ${hash.count > 1 && hash.count > hash.tweets.length ? `on ${hash.tweets.length} tweet${hash.tweets.length !== 1 ? "s" : ""}` : ""}</li>`).join("")}
 		</ol>
 		<p><em>${this.renderNumber(hashCount)} hashtags on ${this.renderNumber(tweetHashCount)} tweets (${this.renderPercentage(tweetHashCount, noRetweetsTweetCount)} of all tweets***)</em></p>
-		<h2 id="swears">Top 5 Swear Words</h2>
-		<ol>
-			${topSwears.slice(0, 5).map(swear => `<li><code>${this.renderSwearWord(swear.word)}</code> used ${swear.count} times ${swear.count > 1 && swear.count > swear.tweets.length ? `on ${swear.tweets.length} tweet${swear.tweets.length !== 1 ? "s" : ""}` : ""}</li>`).join("")}
-		</ol>
 		<p><em>${this.renderNumber(swearCount)} swear words on ${this.renderNumber(tweetSwearCount)} tweets (${this.renderPercentage(tweetSwearCount, noRetweetsTweetCount)} of all tweets***)</em></p>
 		<p>***: does not include retweets</p>
-
+		//-->
 		<template id="rendered-twitter-link"><a href="/1234567890123456789/">twitter link</a></template>
 `;
 		// <h3>Before 2012, it was not possible to tell the difference between a mention and reply. This happened ${this.renderNumber(ambiguousReplyMentionCount)} times (${this.renderPercentage(ambiguousReplyMentionCount, tweetCount)})</h3>
