@@ -1,6 +1,6 @@
 let data = {
 	username: "box464", // No leading @ here
-	homeLabel: "box464.com",
+	homeLabel: "Return to Jeff's Homepage",
 	homeUrl: "https://box464.com/",
 };
 

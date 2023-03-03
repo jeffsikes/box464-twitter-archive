@@ -4,6 +4,647 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1630636588265885697"
+          ],
+          "editableUntil" : "2023-02-28T19:00:33.062Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "daniel roe 🇺🇦",
+            "screen_name" : "danielcroe",
+            "indices" : [
+              "3",
+              "14"
+            ],
+            "id_str" : "38659816",
+            "id" : "38659816"
+          },
+          {
+            "name" : "Nuxt",
+            "screen_name" : "nuxt_js",
+            "indices" : [
+              "64",
+              "72"
+            ],
+            "id_str" : "800044778901618688",
+            "id" : "800044778901618688"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1630636588265885697",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1630636588265885697",
+      "created_at" : "Tue Feb 28 18:30:33 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @danielcroe: If you're new to contributing to open source or @nuxt_js, and want to, let me know. I'd be really happy to have an informal…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1629693268144410625"
+          ],
+          "editableUntil" : "2023-02-26T04:32:08.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "Eleventy",
+            "indices" : [
+              "221",
+              "230"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Eleventy 🎈🐘 fosstodon.org/@eleventy",
+            "screen_name" : "eleven_ty",
+            "indices" : [
+              "210",
+              "220"
+            ],
+            "id_str" : "949639269433380864",
+            "id" : "949639269433380864"
+          },
+          {
+            "name" : "Marvel Unlimited",
+            "screen_name" : "MarvelUnlimited",
+            "indices" : [
+              "231",
+              "247"
+            ],
+            "id_str" : "1249279315",
+            "id" : "1249279315"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/OSIZYXx7jQ",
+            "expanded_url" : "https://box464.com/posts/eleventy-fetch-marvel/",
+            "display_url" : "box464.com/posts/eleventy…",
+            "indices" : [
+              "249",
+              "272"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "272"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1629693268144410625",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1629693268144410625",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Feb 26 04:02:08 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Learn about using eleventy-fetch and the Marvel Comics Developer API. 🕸️🕷️  By the end you’ll have a gallery of comic book covers from your favorite web slinger. Have fun, learn something! But mostly have fun. @eleven_ty #Eleventy @MarvelUnlimited\n\nhttps://t.co/OSIZYXx7jQ",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1623499355285078016"
+          ],
+          "editableUntil" : "2023-02-09T02:19:44.116Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Mastodon (@Mastodon@mastodon.social)",
+            "screen_name" : "joinmastodon",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "875882643614814208",
+            "id" : "875882643614814208"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1623499355285078016",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1623499355285078016",
+      "created_at" : "Thu Feb 09 01:49:44 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @joinmastodon: Today we've released a new update to our iOS app! It brings an improved sign-up flow, home screen widgets, and many acces…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1621986453382217730"
+          ],
+          "editableUntil" : "2023-02-04T22:08:00.194Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Mastodon (@Mastodon@mastodon.social)",
+            "screen_name" : "joinmastodon",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "875882643614814208",
+            "id" : "875882643614814208"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1621986453382217730",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1621986453382217730",
+      "created_at" : "Sat Feb 04 21:38:00 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @joinmastodon: Many of Twitter's most recognizable features were invented in third-party apps, and we're thrilled to see what those deve…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1621204965363433474"
+          ],
+          "editableUntil" : "2023-02-02T18:22:38.931Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "craftcms",
+            "indices" : [
+              "63",
+              "72"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Craft CMS",
+            "screen_name" : "CraftCMS",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "236658433",
+            "id" : "236658433"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "72"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1621204965363433474",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1621204965363433474",
+      "created_at" : "Thu Feb 02 17:52:38 +0000 2023",
+      "favorited" : false,
+      "full_text" : "RT @CraftCMS: If your site includes a Twitter feed, take note. #craftcms",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1621134406730776576"
+          ],
+          "editableUntil" : "2023-02-02T13:42:16.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Elon Musk",
+            "screen_name" : "elonmusk",
+            "indices" : [
+              "17",
+              "26"
+            ],
+            "id_str" : "44196397",
+            "id" : "44196397"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/H7ztU8r5nc",
+            "expanded_url" : "https://twitter.com/TwitterDev/status/1621026986784337922",
+            "display_url" : "twitter.com/TwitterDev/sta…",
+            "indices" : [
+              "255",
+              "278"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "278"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1621134406730776576",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1621134406730776576",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Feb 02 13:12:16 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Petty and small, @elonmusk a big slap in the face to any developer / tinkerer using the APIs to bring traffic and attention to your platform. The least you could do is give more than a week notice. Lose the developer community and you lose your platform. https://t.co/H7ztU8r5nc",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1620479907716276227"
+          ],
+          "editableUntil" : "2023-01-31T18:21:31.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Christopher Bouzy",
+            "screen_name" : "cbouzy",
+            "indices" : [
+              "0",
+              "7"
+            ],
+            "id_str" : "2502466327",
+            "id" : "2502466327"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "107"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1620465937911803906",
+      "id_str" : "1620479907716276227",
+      "in_reply_to_user_id" : "2502466327",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1620479907716276227",
+      "in_reply_to_status_id" : "1620465937911803906",
+      "created_at" : "Tue Jan 31 17:51:31 +0000 2023",
+      "favorited" : false,
+      "full_text" : "@cbouzy Do you plan to implement ActivityPub at some point to connect to Mastodon and other Fediverse apps?",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "cbouzy",
+      "in_reply_to_user_id_str" : "2502466327"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1616373467980468224"
+          ],
+          "editableUntil" : "2023-01-20T10:24:00.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "OpenSource",
+            "indices" : [
+              "220",
+              "231"
+            ]
+          },
+          {
+            "text" : "MastodonApp",
+            "indices" : [
+              "232",
+              "244"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Elk",
+            "screen_name" : "elk_zone",
+            "indices" : [
+              "103",
+              "112"
+            ],
+            "id_str" : "1607990134795915264",
+            "id" : "1607990134795915264"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/t3sK9EFhIV",
+            "expanded_url" : "https://www.box464.com/opensource/2023/01/19/my-first-opensource-experience/",
+            "display_url" : "box464.com/opensource/202…",
+            "indices" : [
+              "196",
+              "219"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "244"
+      ],
+      "favorite_count" : "21",
+      "id_str" : "1616373467980468224",
+      "truncated" : false,
+      "retweet_count" : "7",
+      "id" : "1616373467980468224",
+      "possibly_sensitive" : false,
+      "created_at" : "Fri Jan 20 09:54:00 +0000 2023",
+      "favorited" : false,
+      "full_text" : "Wherein I discuss the major joys and minor tribulations of my first open source contributions with the @elk_zone mastodon app. \n\nTL;DR - It's scary. You're going to make mistakes. Do it anyway. \n\nhttps://t.co/t3sK9EFhIV #OpenSource #MastodonApp",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1608314048587743234"
+          ],
+          "editableUntil" : "2022-12-29T04:38:44.870Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "University of Rochester School of Nursing",
+            "screen_name" : "UofRSON",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "1962752900",
+            "id" : "1962752900"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1608314048587743234",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1608314048587743234",
+      "created_at" : "Thu Dec 29 04:08:44 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @UofRSON: Happy 102nd birthday to our founding dean, Loretta Ford! 🎉 Dr. Ford, co-founder of the nurse practitioner role, is known as th…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1605273774374395905"
+          ],
+          "editableUntil" : "2022-12-20T19:17:47.012Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Eva",
+            "screen_name" : "evacide",
+            "indices" : [
+              "3",
+              "11"
+            ],
+            "id_str" : "14707266",
+            "id" : "14707266"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1605273774374395905",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1605273774374395905",
+      "created_at" : "Tue Dec 20 18:47:47 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @evacide: What happens when you lay off your entire accessibility team? You launch a set of icons that cannot be distinguished by the co…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1604625226947612676"
+          ],
+          "editableUntil" : "2022-12-19T00:20:41.256Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Mastodon (@Mastodon@mastodon.social)",
+            "screen_name" : "joinmastodon",
+            "indices" : [
+              "3",
+              "16"
+            ],
+            "id_str" : "875882643614814208",
+            "id" : "875882643614814208"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "136"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1604625226947612676",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1604625226947612676",
+      "created_at" : "Sun Dec 18 23:50:41 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @joinmastodon: As a company from eastern Germany, we know that building a wall to try and keep people from leaving isn't a good idea.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1604622836764758016"
+          ],
+          "editableUntil" : "2022-12-19T00:11:11.392Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : false
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Elon Musk",
+            "screen_name" : "elonmusk",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "44196397",
+            "id" : "44196397"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "94"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1604622836764758016",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1604622836764758016",
+      "created_at" : "Sun Dec 18 23:41:11 +0000 2022",
+      "favorited" : false,
+      "full_text" : "RT @elonmusk: Should I step down as head of Twitter? I will abide by the results of this poll.",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1594336892627156992"
           ],
           "editableUntil" : "2022-11-20T14:58:31.206Z",
@@ -36,7 +677,7 @@ module.exports = [
             "id" : "5676102"
           },
           {
-            "name" : "Dona ✈️ #BuildStuffConf",
+            "name" : "Dona Sarkar",
             "screen_name" : "donasarkar",
             "indices" : [
               "16",
@@ -46,7 +687,7 @@ module.exports = [
             "id" : "55588874"
           },
           {
-            "name" : "NOT THE FUCKING SOCIAL NETWORK",
+            "name" : "NOT THE SOCIAL NETWORK",
             "screen_name" : "mastodon",
             "indices" : [
               "28",
@@ -89,52 +730,6 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1594207193582239745"
-          ],
-          "editableUntil" : "2022-11-20T06:23:08.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/xMUW6bMonm",
-            "expanded_url" : "https://mastodon.social/@box464",
-            "display_url" : "mastodon.social/@box464",
-            "indices" : [
-              "22",
-              "45"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "45"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1594207193582239745",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1594207193582239745",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Nov 20 05:53:08 +0000 2022",
-      "favorited" : false,
-      "full_text" : "Join me at Mastodon.  https://t.co/xMUW6bMonm",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "1564388901447417856"
           ],
           "editableUntil" : "2022-08-29T23:35:53.000Z",
@@ -167,10 +762,10 @@ module.exports = [
               "71"
             ],
             "url" : "https://t.co/Cafe6Ir1JZ",
-            "media_url" : "http://pbs.twimg.com/media/FbXTZz7XoAAxbqp.jpg",
+            "media_url" : "http://pbs.twimg.com/media/FbXTZz7XoAAoysU.jpg",
             "id_str" : "1564388885970526208",
             "id" : "1564388885970526208",
-            "media_url_https" : "https://pbs.twimg.com/media/FbXTZz7XoAAxbqp.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/FbXTZz7XoAAoysU.jpg",
             "sizes" : {
               "large" : {
                 "w" : "1536",
@@ -227,10 +822,10 @@ module.exports = [
               "71"
             ],
             "url" : "https://t.co/Cafe6Ir1JZ",
-            "media_url" : "http://pbs.twimg.com/media/FbXTZz7XoAAxbqp.jpg",
+            "media_url" : "http://pbs.twimg.com/media/FbXTZz7XoAAoysU.jpg",
             "id_str" : "1564388885970526208",
             "id" : "1564388885970526208",
-            "media_url_https" : "https://pbs.twimg.com/media/FbXTZz7XoAAxbqp.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/FbXTZz7XoAAoysU.jpg",
             "sizes" : {
               "large" : {
                 "w" : "1536",
@@ -604,7 +1199,7 @@ module.exports = [
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "Shawn Wildermuth #000000 { lives: matter; } 🇺🇦",
+            "name" : "@shawnwildermuth@fosstodon.org 🇺🇦",
             "screen_name" : "ShawnWildermuth",
             "indices" : [
               "0",
@@ -1089,648 +1684,42 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1169700727226327042"
+            "5621842414"
           ],
-          "editableUntil" : "2019-09-05T20:26:00.016Z",
+          "editableUntil" : "2009-11-11T16:24:09.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
       },
       "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "entities" : {
         "hashtags" : [
           {
-            "text" : "4HNYSD",
+            "text" : "imac",
             "indices" : [
-              "112",
-              "119"
+              "4",
+              "9"
             ]
           }
         ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "4-H",
-            "screen_name" : "4H",
-            "indices" : [
-              "3",
-              "6"
-            ],
-            "id_str" : "14107459",
-            "id" : "14107459"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1169700727226327042",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1169700727226327042",
-      "created_at" : "Thu Sep 05 19:56:00 +0000 2019",
-      "favorited" : false,
-      "full_text" : "RT @4H: Learning to code has never been easier! Discover computer science through hands-on fun with this year's #4HNYSD challenge, Game Cha…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1167289441079222277"
-          ],
-          "editableUntil" : "2019-08-30T04:44:24.599Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Shawn Wildermuth #000000 { lives: matter; } 🇺🇦",
-            "screen_name" : "ShawnWildermuth",
-            "indices" : [
-              "0",
-              "16"
-            ],
-            "id_str" : "1388411",
-            "id" : "1388411"
-          },
-          {
-            "name" : "Black Girls CODE",
-            "screen_name" : "BlackGirlsCODE",
-            "indices" : [
-              "17",
-              "32"
-            ],
-            "id_str" : "291814511",
-            "id" : "291814511"
-          },
-          {
-            "name" : "Code.org",
-            "screen_name" : "codeorg",
-            "indices" : [
-              "33",
-              "41"
-            ],
-            "id_str" : "850107536",
-            "id" : "850107536"
-          },
-          {
-            "name" : "Women Who Code",
-            "screen_name" : "WomenWhoCode",
-            "indices" : [
-              "42",
-              "55"
-            ],
-            "id_str" : "345673106",
-            "id" : "345673106"
-          },
-          {
-            "name" : "girlstart",
-            "screen_name" : "girlstart",
-            "indices" : [
-              "56",
-              "66"
-            ],
-            "id_str" : "17342703",
-            "id" : "17342703"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "95"
-      ],
-      "favorite_count" : "1",
-      "in_reply_to_status_id_str" : "1167266430938734593",
-      "id_str" : "1167289441079222277",
-      "in_reply_to_user_id" : "1388411",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1167289441079222277",
-      "in_reply_to_status_id" : "1167266430938734593",
-      "created_at" : "Fri Aug 30 04:14:24 +0000 2019",
-      "favorited" : false,
-      "full_text" : "@ShawnWildermuth @BlackGirlsCode @codeorg @WomenWhoCode @girlstart is a good one here in Texas.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "ShawnWildermuth",
-      "in_reply_to_user_id_str" : "1388411"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1156724560663891968"
-          ],
-          "editableUntil" : "2019-08-01T01:03:20.822Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "hashtags" : [ ],
         "symbols" : [ ],
         "user_mentions" : [ ],
-        "urls" : [
-          {
-            "url" : "https://t.co/LssEEMm49Z",
-            "expanded_url" : "https://twitter.com/whalecoiner/status/1156310324070535168",
-            "display_url" : "twitter.com/whalecoiner/st…",
-            "indices" : [
-              "196",
-              "219"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "219"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1156724560663891968",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1156724560663891968",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Aug 01 00:33:20 +0000 2019",
-      "favorited" : false,
-      "full_text" : "Great perspective for up and coming web developers and old timers alike.  In the majority of organizations, you’re not going to be building with the newest, exciting technologies.  And that’s ok. https://t.co/LssEEMm49Z",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1145511792988344321"
-          ],
-          "editableUntil" : "2019-07-01T02:27:48.685Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "Joshua Thornsberry (he/him)",
-            "screen_name" : "thornsberryjd",
-            "indices" : [
-              "3",
-              "17"
-            ],
-            "id_str" : "795856490875785216",
-            "id" : "795856490875785216"
-          }
-        ],
-        "urls" : [ ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/thornsberryjd/status/1141013700163395584/video/1",
-            "source_status_id" : "1141013700163395584",
-            "indices" : [
-              "80",
-              "103"
-            ],
-            "url" : "https://t.co/8YLhDjT7CE",
-            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1141013667242237953/pu/img/WTqa6IOOZ0WYtkMU.jpg",
-            "id_str" : "1141013667242237953",
-            "source_user_id" : "795856490875785216",
-            "id" : "1141013667242237953",
-            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1141013667242237953/pu/img/WTqa6IOOZ0WYtkMU.jpg",
-            "source_user_id_str" : "795856490875785216",
-            "sizes" : {
-              "medium" : {
-                "w" : "675",
-                "h" : "1200",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "720",
-                "h" : "1280",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "small" : {
-                "w" : "383",
-                "h" : "680",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "1141013700163395584",
-            "display_url" : "pic.twitter.com/8YLhDjT7CE"
-          }
-        ],
-        "hashtags" : [
-          {
-            "text" : "AANP19",
-            "indices" : [
-              "43",
-              "50"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "103"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1145511792988344321",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1145511792988344321",
-      "possibly_sensitive" : false,
-      "created_at" : "Mon Jul 01 01:57:48 +0000 2019",
-      "favorited" : false,
-      "full_text" : "RT @thornsberryjd: Things just got real at #AANP19! Badge pick up was a breeze! https://t.co/8YLhDjT7CE",
-      "lang" : "en",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/thornsberryjd/status/1141013700163395584/video/1",
-            "source_status_id" : "1141013700163395584",
-            "indices" : [
-              "80",
-              "103"
-            ],
-            "url" : "https://t.co/8YLhDjT7CE",
-            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1141013667242237953/pu/img/WTqa6IOOZ0WYtkMU.jpg",
-            "id_str" : "1141013667242237953",
-            "video_info" : {
-              "aspect_ratio" : [
-                "9",
-                "16"
-              ],
-              "duration_millis" : "7560",
-              "variants" : [
-                {
-                  "bitrate" : "832000",
-                  "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/ext_tw_video/1141013667242237953/pu/vid/360x640/bJVlXEnTI8hELqHp.mp4?tag=10"
-                },
-                {
-                  "bitrate" : "2176000",
-                  "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/ext_tw_video/1141013667242237953/pu/vid/720x1280/4BUdriGybTTHGKYJ.mp4?tag=10"
-                },
-                {
-                  "bitrate" : "632000",
-                  "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/ext_tw_video/1141013667242237953/pu/vid/320x568/Xck0eTQsiVajkAcb.mp4?tag=10"
-                },
-                {
-                  "content_type" : "application/x-mpegURL",
-                  "url" : "https://video.twimg.com/ext_tw_video/1141013667242237953/pu/pl/L8UFxy36FgLqbK7t.m3u8?tag=10"
-                }
-              ]
-            },
-            "source_user_id" : "795856490875785216",
-            "additional_media_info" : {
-              "monetizable" : false
-            },
-            "id" : "1141013667242237953",
-            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1141013667242237953/pu/img/WTqa6IOOZ0WYtkMU.jpg",
-            "source_user_id_str" : "795856490875785216",
-            "sizes" : {
-              "medium" : {
-                "w" : "675",
-                "h" : "1200",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "720",
-                "h" : "1280",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "small" : {
-                "w" : "383",
-                "h" : "680",
-                "resize" : "fit"
-              }
-            },
-            "type" : "video",
-            "source_status_id_str" : "1141013700163395584",
-            "display_url" : "pic.twitter.com/8YLhDjT7CE"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1142197979450884096"
-          ],
-          "editableUntil" : "2019-06-21T22:59:53.970Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Cory House",
-            "screen_name" : "housecor",
-            "indices" : [
-              "3",
-              "12"
-            ],
-            "id_str" : "19268321",
-            "id" : "19268321"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "140"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1142197979450884096",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1142197979450884096",
-      "created_at" : "Fri Jun 21 22:29:53 +0000 2019",
-      "favorited" : false,
-      "full_text" : "RT @housecor: When someone new joins the team, I try to avoid verbal training. I believe processes should be documented. So I link to the r…",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1136468644605677568"
-          ],
-          "editableUntil" : "2019-06-06T03:33:34.097Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "proliability",
-            "screen_name" : "proliability",
-            "indices" : [
-              "104",
-              "117"
-            ],
-            "id_str" : "987427933",
-            "id" : "987427933"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/EkDDuiBbcN",
-            "expanded_url" : "https://mobile.aanp.org",
-            "display_url" : "mobile.aanp.org",
-            "indices" : [
-              "171",
-              "194"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/box464/status/1136468644605677568/photo/1",
-            "indices" : [
-              "195",
-              "218"
-            ],
-            "url" : "https://t.co/3TrPzzyfSD",
-            "media_url" : "http://pbs.twimg.com/media/D8WMNQnWwAEKHcq.jpg",
-            "id_str" : "1136468640407142401",
-            "id" : "1136468640407142401",
-            "media_url_https" : "https://pbs.twimg.com/media/D8WMNQnWwAEKHcq.jpg",
-            "sizes" : {
-              "large" : {
-                "w" : "827",
-                "h" : "1462",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "679",
-                "h" : "1200",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "small" : {
-                "w" : "385",
-                "h" : "680",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/3TrPzzyfSD"
-          }
-        ],
-        "hashtags" : [
-          {
-            "text" : "AANP19",
-            "indices" : [
-              "71",
-              "78"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "218"
-      ],
-      "favorite_count" : "1",
-      "id_str" : "1136468644605677568",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1136468644605677568",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Jun 06 03:03:34 +0000 2019",
-      "favorited" : false,
-      "full_text" : "AANP National Conference attendees - it’s here!  Download the official #AANP19 mobile app, sponsored by @proliability, to get the most out of your conference experience.  https://t.co/EkDDuiBbcN https://t.co/3TrPzzyfSD",
-      "lang" : "en",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/box464/status/1136468644605677568/photo/1",
-            "indices" : [
-              "195",
-              "218"
-            ],
-            "url" : "https://t.co/3TrPzzyfSD",
-            "media_url" : "http://pbs.twimg.com/media/D8WMNQnWwAEKHcq.jpg",
-            "id_str" : "1136468640407142401",
-            "id" : "1136468640407142401",
-            "media_url_https" : "https://pbs.twimg.com/media/D8WMNQnWwAEKHcq.jpg",
-            "sizes" : {
-              "large" : {
-                "w" : "827",
-                "h" : "1462",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "679",
-                "h" : "1200",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "small" : {
-                "w" : "385",
-                "h" : "680",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/3TrPzzyfSD"
-          },
-          {
-            "expanded_url" : "https://twitter.com/box464/status/1136468644605677568/photo/1",
-            "indices" : [
-              "195",
-              "218"
-            ],
-            "url" : "https://t.co/3TrPzzyfSD",
-            "media_url" : "http://pbs.twimg.com/media/D8WMNQoX4AMtj3z.jpg",
-            "id_str" : "1136468640411410435",
-            "id" : "1136468640411410435",
-            "media_url_https" : "https://pbs.twimg.com/media/D8WMNQoX4AMtj3z.jpg",
-            "sizes" : {
-              "small" : {
-                "w" : "383",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "675",
-                "h" : "1200",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              },
-              "large" : {
-                "w" : "828",
-                "h" : "1471",
-                "resize" : "fit"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/3TrPzzyfSD"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1114922379082231809"
-          ],
-          "editableUntil" : "2019-04-07T16:36:24.086Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Catalin Avram",
-            "screen_name" : "papi0t",
-            "indices" : [
-              "0",
-              "7"
-            ],
-            "id_str" : "388946544",
-            "id" : "388946544"
-          },
-          {
-            "name" : "дэн",
-            "screen_name" : "dan_abramov",
-            "indices" : [
-              "8",
-              "20"
-            ],
-            "id_str" : "70345946",
-            "id" : "70345946"
-          }
-        ],
         "urls" : [ ]
       },
       "display_text_range" : [
         "0",
         "98"
       ],
-      "favorite_count" : "9",
-      "in_reply_to_status_id_str" : "1114896534083076097",
-      "id_str" : "1114922379082231809",
-      "in_reply_to_user_id" : "388946544",
+      "favorite_count" : "0",
+      "id_str" : "5621842414",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1114922379082231809",
-      "in_reply_to_status_id" : "1114896534083076097",
-      "created_at" : "Sun Apr 07 16:06:24 +0000 2019",
+      "id" : "5621842414",
+      "created_at" : "Wed Nov 11 15:54:09 +0000 2009",
       "favorited" : false,
-      "full_text" : "@papi0t @dan_abramov 😆 I can still hear the cutesy “uh oh!” message alert in my head.  Good times.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "papi0t",
-      "in_reply_to_user_id_str" : "388946544"
+      "full_text" : "The #imac i7 has shipped!  I am preparing my Nintendo 64 kid imitation for the delivery on Friday.",
+      "lang" : "en"
     }
   },
   {
@@ -1738,71 +1727,50 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1114919024251432960"
+            "5567057696"
           ],
-          "editableUntil" : "2019-04-07T16:23:04.232Z",
+          "editableUntil" : "2009-11-09T20:17:12.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
       },
       "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "mihir",
-            "screen_name" : "KarandikarMihir",
+            "name" : "boxee help",
+            "screen_name" : "boxee_help",
             "indices" : [
               "0",
-              "16"
+              "11"
             ],
-            "id_str" : "114431207",
-            "id" : "114431207"
-          },
-          {
-            "name" : "дэн",
-            "screen_name" : "dan_abramov",
-            "indices" : [
-              "17",
-              "29"
-            ],
-            "id_str" : "70345946",
-            "id" : "70345946"
+            "id_str" : "16612543",
+            "id" : "16612543"
           }
         ],
-        "urls" : [
-          {
-            "url" : "https://t.co/7KxeM4qDs4",
-            "expanded_url" : "https://youtu.be/jvP1cx1f5iA",
-            "display_url" : "youtu.be/jvP1cx1f5iA",
-            "indices" : [
-              "30",
-              "53"
-            ]
-          }
-        ]
+        "urls" : [ ]
       },
       "display_text_range" : [
         "0",
-        "241"
+        "35"
       ],
-      "favorite_count" : "5",
-      "in_reply_to_status_id_str" : "1114918083213385728",
-      "id_str" : "1114919024251432960",
-      "in_reply_to_user_id" : "114431207",
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "5563740835",
+      "id_str" : "5567057696",
+      "in_reply_to_user_id" : "16612543",
       "truncated" : false,
       "retweet_count" : "0",
-      "id" : "1114919024251432960",
-      "in_reply_to_status_id" : "1114918083213385728",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Apr 07 15:53:04 +0000 2019",
+      "id" : "5567057696",
+      "in_reply_to_status_id" : "5563740835",
+      "created_at" : "Mon Nov 09 19:47:12 +0000 2009",
       "favorited" : false,
-      "full_text" : "@KarandikarMihir @dan_abramov https://t.co/7KxeM4qDs4 An attempt to make the computer interface “easier” for normal home users.  It sat on top of the windows shell as a way to interact and organize your data and apps.  Pretty much a failure.",
+      "full_text" : "@boxee_help That worked!  You rock.",
       "lang" : "en",
-      "in_reply_to_screen_name" : "KarandikarMihir",
-      "in_reply_to_user_id_str" : "114431207"
+      "in_reply_to_screen_name" : "boxee_help",
+      "in_reply_to_user_id_str" : "16612543"
     }
   },
   {
@@ -1810,129 +1778,322 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "1114917785505677312"
+            "5563549726"
           ],
-          "editableUntil" : "2019-04-07T16:18:08.892Z",
+          "editableUntil" : "2009-11-09T17:45:10.000Z",
           "editsRemaining" : "5",
           "isEditEligible" : true
         }
       },
       "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
       "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
         "user_mentions" : [
           {
-            "name" : "дэн",
-            "screen_name" : "dan_abramov",
+            "name" : "boxee help",
+            "screen_name" : "boxee_help",
             "indices" : [
               "0",
-              "12"
+              "11"
             ],
-            "id_str" : "70345946",
-            "id" : "70345946"
+            "id_str" : "16612543",
+            "id" : "16612543"
           }
         ],
-        "urls" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "115"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "5563549726",
+      "in_reply_to_user_id" : "16612543",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "5563549726",
+      "created_at" : "Mon Nov 09 17:15:10 +0000 2009",
+      "favorited" : false,
+      "full_text" : "@boxee_help windows boxee, tv shows/movies showing up with correct names and episode/plot summaries, but no images.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "boxee_help",
+      "in_reply_to_user_id_str" : "16612543"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "5563445439"
+          ],
+          "editableUntil" : "2009-11-09T17:40:40.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "entities" : {
+        "hashtags" : [ ],
         "symbols" : [ ],
-        "media" : [
+        "user_mentions" : [
           {
-            "expanded_url" : "https://twitter.com/box464/status/1114917785505677312/photo/1",
+            "name" : "boxee help",
+            "screen_name" : "boxee_help",
             "indices" : [
-              "34",
-              "57"
+              "0",
+              "11"
             ],
-            "url" : "https://t.co/F4P28rASDl",
-            "media_url" : "http://pbs.twimg.com/media/D3j70DmU0AAz1xf.jpg",
-            "id_str" : "1114917779512020992",
-            "id" : "1114917779512020992",
-            "media_url_https" : "https://pbs.twimg.com/media/D3j70DmU0AAz1xf.jpg",
-            "sizes" : {
-              "small" : {
-                "w" : "640",
-                "h" : "480",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "640",
-                "h" : "480",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "640",
-                "h" : "480",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/F4P28rASDl"
+            "id_str" : "16612543",
+            "id" : "16612543"
           }
         ],
-        "hashtags" : [ ]
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "25"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "5554269115",
+      "id_str" : "5563445439",
+      "in_reply_to_user_id" : "16612543",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "5563445439",
+      "in_reply_to_status_id" : "5554269115",
+      "created_at" : "Mon Nov 09 17:10:40 +0000 2009",
+      "favorited" : false,
+      "full_text" : "@boxee_help done, thanks!",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "boxee_help",
+      "in_reply_to_user_id_str" : "16612543"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "5018533301"
+          ],
+          "editableUntil" : "2009-10-20T14:00:20.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "9to5Mac",
+            "screen_name" : "9to5mac",
+            "indices" : [
+              "0",
+              "8"
+            ],
+            "id_str" : "15944436",
+            "id" : "15944436"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "41"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "5018444837",
+      "id_str" : "5018533301",
+      "in_reply_to_user_id" : "15944436",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "5018533301",
+      "in_reply_to_status_id" : "5018444837",
+      "created_at" : "Tue Oct 20 13:30:20 +0000 2009",
+      "favorited" : false,
+      "full_text" : "@9to5mac Hong Kong store is down as well.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "9to5mac",
+      "in_reply_to_user_id_str" : "15944436"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "4668922977"
+          ],
+          "editableUntil" : "2009-10-07T00:43:27.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "94"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "4668922977",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "4668922977",
+      "created_at" : "Wed Oct 07 00:13:27 +0000 2009",
+      "favorited" : false,
+      "full_text" : "Why would I pay 1.29 for a ringtone version of a song I already bought for .99 cents.  Anyone?",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "4553973388"
+          ],
+          "editableUntil" : "2009-10-02T15:12:46.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Roger Sikes",
+            "screen_name" : "rogersikes",
+            "indices" : [
+              "0",
+              "11"
+            ],
+            "id_str" : "16247903",
+            "id" : "16247903"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "75"
+      ],
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "4552572945",
+      "id_str" : "4553973388",
+      "in_reply_to_user_id" : "16247903",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "4553973388",
+      "in_reply_to_status_id" : "4552572945",
+      "created_at" : "Fri Oct 02 14:42:46 +0000 2009",
+      "favorited" : false,
+      "full_text" : "@rogersikes No!  Not the Swine Flu I hope.  It's running rampant in Dallas.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rogersikes",
+      "in_reply_to_user_id_str" : "16247903"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "2426347342"
+          ],
+          "editableUntil" : "2009-07-01T21:47:50.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Roger Sikes",
+            "screen_name" : "rogersikes",
+            "indices" : [
+              "0",
+              "11"
+            ],
+            "id_str" : "16247903",
+            "id" : "16247903"
+          }
+        ],
+        "urls" : [ ]
       },
       "display_text_range" : [
         "0",
         "57"
       ],
-      "favorite_count" : "21",
-      "in_reply_to_status_id_str" : "1114884708247187457",
-      "id_str" : "1114917785505677312",
-      "in_reply_to_user_id" : "70345946",
+      "favorite_count" : "0",
+      "in_reply_to_status_id_str" : "2420619879",
+      "id_str" : "2426347342",
+      "in_reply_to_user_id" : "16247903",
       "truncated" : false,
-      "retweet_count" : "1",
-      "id" : "1114917785505677312",
-      "in_reply_to_status_id" : "1114884708247187457",
-      "possibly_sensitive" : false,
-      "created_at" : "Sun Apr 07 15:48:08 +0000 2019",
+      "retweet_count" : "0",
+      "id" : "2426347342",
+      "in_reply_to_status_id" : "2420619879",
+      "created_at" : "Wed Jul 01 21:17:50 +0000 2009",
       "favorited" : false,
-      "full_text" : "@dan_abramov Microsoft Bob, y’all https://t.co/F4P28rASDl",
-      "lang" : "cy",
-      "in_reply_to_screen_name" : "dan_abramov",
-      "in_reply_to_user_id_str" : "70345946",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/box464/status/1114917785505677312/photo/1",
-            "indices" : [
-              "34",
-              "57"
-            ],
-            "url" : "https://t.co/F4P28rASDl",
-            "media_url" : "http://pbs.twimg.com/media/D3j70DmU0AAz1xf.jpg",
-            "id_str" : "1114917779512020992",
-            "id" : "1114917779512020992",
-            "media_url_https" : "https://pbs.twimg.com/media/D3j70DmU0AAz1xf.jpg",
-            "sizes" : {
-              "small" : {
-                "w" : "640",
-                "h" : "480",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "640",
-                "h" : "480",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "640",
-                "h" : "480",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "display_url" : "pic.twitter.com/F4P28rASDl"
-          }
-        ]
-      }
+      "full_text" : "@rogersikes found fleet foxes recently, too, great stuff!",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "rogersikes",
+      "in_reply_to_user_id_str" : "16247903"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1320251263"
+          ],
+          "editableUntil" : "2009-03-13T05:09:20.000Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "86"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1320251263",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1320251263",
+      "created_at" : "Fri Mar 13 04:39:20 +0000 2009",
+      "favorited" : false,
+      "full_text" : "likes Krod Mandoon: Series Preview on Boxee. check it out at http://tinyurl.com/cunfoc",
+      "lang" : "en"
     }
   },
   {
@@ -2440,6 +2601,857 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
+            "1169700727226327042"
+          ],
+          "editableUntil" : "2019-09-05T20:26:00.016Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [
+          {
+            "text" : "4HNYSD",
+            "indices" : [
+              "112",
+              "119"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "4-H",
+            "screen_name" : "4H",
+            "indices" : [
+              "3",
+              "6"
+            ],
+            "id_str" : "14107459",
+            "id" : "14107459"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1169700727226327042",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1169700727226327042",
+      "created_at" : "Thu Sep 05 19:56:00 +0000 2019",
+      "favorited" : false,
+      "full_text" : "RT @4H: Learning to code has never been easier! Discover computer science through hands-on fun with this year's #4HNYSD challenge, Game Cha…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1167289441079222277"
+          ],
+          "editableUntil" : "2019-08-30T04:44:24.599Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "@shawnwildermuth@fosstodon.org 🇺🇦",
+            "screen_name" : "ShawnWildermuth",
+            "indices" : [
+              "0",
+              "16"
+            ],
+            "id_str" : "1388411",
+            "id" : "1388411"
+          },
+          {
+            "name" : "Black Girls CODE",
+            "screen_name" : "BlackGirlsCODE",
+            "indices" : [
+              "17",
+              "32"
+            ],
+            "id_str" : "291814511",
+            "id" : "291814511"
+          },
+          {
+            "name" : "Code.org",
+            "screen_name" : "codeorg",
+            "indices" : [
+              "33",
+              "41"
+            ],
+            "id_str" : "850107536",
+            "id" : "850107536"
+          },
+          {
+            "name" : "Women Who Code",
+            "screen_name" : "WomenWhoCode",
+            "indices" : [
+              "42",
+              "55"
+            ],
+            "id_str" : "345673106",
+            "id" : "345673106"
+          },
+          {
+            "name" : "girlstart",
+            "screen_name" : "girlstart",
+            "indices" : [
+              "56",
+              "66"
+            ],
+            "id_str" : "17342703",
+            "id" : "17342703"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "95"
+      ],
+      "favorite_count" : "1",
+      "in_reply_to_status_id_str" : "1167266430938734593",
+      "id_str" : "1167289441079222277",
+      "in_reply_to_user_id" : "1388411",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1167289441079222277",
+      "in_reply_to_status_id" : "1167266430938734593",
+      "created_at" : "Fri Aug 30 04:14:24 +0000 2019",
+      "favorited" : false,
+      "full_text" : "@ShawnWildermuth @BlackGirlsCode @codeorg @WomenWhoCode @girlstart is a good one here in Texas.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "ShawnWildermuth",
+      "in_reply_to_user_id_str" : "1388411"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1156724560663891968"
+          ],
+          "editableUntil" : "2019-08-01T01:03:20.822Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [ ],
+        "urls" : [
+          {
+            "url" : "https://t.co/LssEEMm49Z",
+            "expanded_url" : "https://twitter.com/whalecoiner/status/1156310324070535168",
+            "display_url" : "twitter.com/whalecoiner/st…",
+            "indices" : [
+              "196",
+              "219"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "219"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1156724560663891968",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1156724560663891968",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Aug 01 00:33:20 +0000 2019",
+      "favorited" : false,
+      "full_text" : "Great perspective for up and coming web developers and old timers alike.  In the majority of organizations, you’re not going to be building with the newest, exciting technologies.  And that’s ok. https://t.co/LssEEMm49Z",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1145511792988344321"
+          ],
+          "editableUntil" : "2019-07-01T02:27:48.685Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities" : {
+        "user_mentions" : [
+          {
+            "name" : "Joshua Thornsberry (he/him)",
+            "screen_name" : "thornsberryjd",
+            "indices" : [
+              "3",
+              "17"
+            ],
+            "id_str" : "795856490875785216",
+            "id" : "795856490875785216"
+          }
+        ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/thornsberryjd/status/1141013700163395584/video/1",
+            "source_status_id" : "1141013700163395584",
+            "indices" : [
+              "80",
+              "103"
+            ],
+            "url" : "https://t.co/8YLhDjT7CE",
+            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1141013667242237953/pu/img/WTqa6IOOZ0WYtkMU.jpg",
+            "id_str" : "1141013667242237953",
+            "source_user_id" : "795856490875785216",
+            "id" : "1141013667242237953",
+            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1141013667242237953/pu/img/WTqa6IOOZ0WYtkMU.jpg",
+            "source_user_id_str" : "795856490875785216",
+            "sizes" : {
+              "medium" : {
+                "w" : "675",
+                "h" : "1200",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "720",
+                "h" : "1280",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "383",
+                "h" : "680",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "source_status_id_str" : "1141013700163395584",
+            "display_url" : "pic.twitter.com/8YLhDjT7CE"
+          }
+        ],
+        "hashtags" : [
+          {
+            "text" : "AANP19",
+            "indices" : [
+              "43",
+              "50"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "103"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1145511792988344321",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1145511792988344321",
+      "possibly_sensitive" : false,
+      "created_at" : "Mon Jul 01 01:57:48 +0000 2019",
+      "favorited" : false,
+      "full_text" : "RT @thornsberryjd: Things just got real at #AANP19! Badge pick up was a breeze! https://t.co/8YLhDjT7CE",
+      "lang" : "en",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/thornsberryjd/status/1141013700163395584/video/1",
+            "source_status_id" : "1141013700163395584",
+            "indices" : [
+              "80",
+              "103"
+            ],
+            "url" : "https://t.co/8YLhDjT7CE",
+            "media_url" : "http://pbs.twimg.com/ext_tw_video_thumb/1141013667242237953/pu/img/WTqa6IOOZ0WYtkMU.jpg",
+            "id_str" : "1141013667242237953",
+            "video_info" : {
+              "aspect_ratio" : [
+                "9",
+                "16"
+              ],
+              "duration_millis" : "7560",
+              "variants" : [
+                {
+                  "bitrate" : "832000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/ext_tw_video/1141013667242237953/pu/vid/360x640/bJVlXEnTI8hELqHp.mp4?tag=10"
+                },
+                {
+                  "bitrate" : "2176000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/ext_tw_video/1141013667242237953/pu/vid/720x1280/4BUdriGybTTHGKYJ.mp4?tag=10"
+                },
+                {
+                  "bitrate" : "632000",
+                  "content_type" : "video/mp4",
+                  "url" : "https://video.twimg.com/ext_tw_video/1141013667242237953/pu/vid/320x568/Xck0eTQsiVajkAcb.mp4?tag=10"
+                },
+                {
+                  "content_type" : "application/x-mpegURL",
+                  "url" : "https://video.twimg.com/ext_tw_video/1141013667242237953/pu/pl/L8UFxy36FgLqbK7t.m3u8?tag=10"
+                }
+              ]
+            },
+            "source_user_id" : "795856490875785216",
+            "additional_media_info" : {
+              "monetizable" : false
+            },
+            "id" : "1141013667242237953",
+            "media_url_https" : "https://pbs.twimg.com/ext_tw_video_thumb/1141013667242237953/pu/img/WTqa6IOOZ0WYtkMU.jpg",
+            "source_user_id_str" : "795856490875785216",
+            "sizes" : {
+              "medium" : {
+                "w" : "675",
+                "h" : "1200",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "720",
+                "h" : "1280",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "383",
+                "h" : "680",
+                "resize" : "fit"
+              }
+            },
+            "type" : "video",
+            "source_status_id_str" : "1141013700163395584",
+            "display_url" : "pic.twitter.com/8YLhDjT7CE"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1142197979450884096"
+          ],
+          "editableUntil" : "2019-06-21T22:59:53.970Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Cory House",
+            "screen_name" : "housecor",
+            "indices" : [
+              "3",
+              "12"
+            ],
+            "id_str" : "19268321",
+            "id" : "19268321"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "140"
+      ],
+      "favorite_count" : "0",
+      "id_str" : "1142197979450884096",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1142197979450884096",
+      "created_at" : "Fri Jun 21 22:29:53 +0000 2019",
+      "favorited" : false,
+      "full_text" : "RT @housecor: When someone new joins the team, I try to avoid verbal training. I believe processes should be documented. So I link to the r…",
+      "lang" : "en"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1136468644605677568"
+          ],
+          "editableUntil" : "2019-06-06T03:33:34.097Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities" : {
+        "user_mentions" : [
+          {
+            "name" : "Proliability",
+            "screen_name" : "proliability",
+            "indices" : [
+              "104",
+              "117"
+            ],
+            "id_str" : "987427933",
+            "id" : "987427933"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/EkDDuiBbcN",
+            "expanded_url" : "https://mobile.aanp.org",
+            "display_url" : "mobile.aanp.org",
+            "indices" : [
+              "171",
+              "194"
+            ]
+          }
+        ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/box464/status/1136468644605677568/photo/1",
+            "indices" : [
+              "195",
+              "218"
+            ],
+            "url" : "https://t.co/3TrPzzyfSD",
+            "media_url" : "http://pbs.twimg.com/media/D8WMNQnWwAEA1tC.jpg",
+            "id_str" : "1136468640407142401",
+            "id" : "1136468640407142401",
+            "media_url_https" : "https://pbs.twimg.com/media/D8WMNQnWwAEA1tC.jpg",
+            "sizes" : {
+              "large" : {
+                "w" : "827",
+                "h" : "1462",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "679",
+                "h" : "1200",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "385",
+                "h" : "680",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/3TrPzzyfSD"
+          }
+        ],
+        "hashtags" : [
+          {
+            "text" : "AANP19",
+            "indices" : [
+              "71",
+              "78"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "218"
+      ],
+      "favorite_count" : "1",
+      "id_str" : "1136468644605677568",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1136468644605677568",
+      "possibly_sensitive" : false,
+      "created_at" : "Thu Jun 06 03:03:34 +0000 2019",
+      "favorited" : false,
+      "full_text" : "AANP National Conference attendees - it’s here!  Download the official #AANP19 mobile app, sponsored by @proliability, to get the most out of your conference experience.  https://t.co/EkDDuiBbcN https://t.co/3TrPzzyfSD",
+      "lang" : "en",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/box464/status/1136468644605677568/photo/1",
+            "indices" : [
+              "195",
+              "218"
+            ],
+            "url" : "https://t.co/3TrPzzyfSD",
+            "media_url" : "http://pbs.twimg.com/media/D8WMNQnWwAEA1tC.jpg",
+            "id_str" : "1136468640407142401",
+            "id" : "1136468640407142401",
+            "media_url_https" : "https://pbs.twimg.com/media/D8WMNQnWwAEA1tC.jpg",
+            "sizes" : {
+              "large" : {
+                "w" : "827",
+                "h" : "1462",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "679",
+                "h" : "1200",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "small" : {
+                "w" : "385",
+                "h" : "680",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/3TrPzzyfSD"
+          },
+          {
+            "expanded_url" : "https://twitter.com/box464/status/1136468644605677568/photo/1",
+            "indices" : [
+              "195",
+              "218"
+            ],
+            "url" : "https://t.co/3TrPzzyfSD",
+            "media_url" : "http://pbs.twimg.com/media/D8WMNQoX4AMa07j.jpg",
+            "id_str" : "1136468640411410435",
+            "id" : "1136468640411410435",
+            "media_url_https" : "https://pbs.twimg.com/media/D8WMNQoX4AMa07j.jpg",
+            "sizes" : {
+              "small" : {
+                "w" : "383",
+                "h" : "680",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "675",
+                "h" : "1200",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              },
+              "large" : {
+                "w" : "828",
+                "h" : "1471",
+                "resize" : "fit"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/3TrPzzyfSD"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1114922379082231809"
+          ],
+          "editableUntil" : "2019-04-07T16:36:24.086Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "Cătălin Avram",
+            "screen_name" : "papi0t",
+            "indices" : [
+              "0",
+              "7"
+            ],
+            "id_str" : "388946544",
+            "id" : "388946544"
+          },
+          {
+            "name" : "дэн",
+            "screen_name" : "dan_abramov",
+            "indices" : [
+              "8",
+              "20"
+            ],
+            "id_str" : "70345946",
+            "id" : "70345946"
+          }
+        ],
+        "urls" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "98"
+      ],
+      "favorite_count" : "9",
+      "in_reply_to_status_id_str" : "1114896534083076097",
+      "id_str" : "1114922379082231809",
+      "in_reply_to_user_id" : "388946544",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1114922379082231809",
+      "in_reply_to_status_id" : "1114896534083076097",
+      "created_at" : "Sun Apr 07 16:06:24 +0000 2019",
+      "favorited" : false,
+      "full_text" : "@papi0t @dan_abramov 😆 I can still hear the cutesy “uh oh!” message alert in my head.  Good times.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "papi0t",
+      "in_reply_to_user_id_str" : "388946544"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1114919024251432960"
+          ],
+          "editableUntil" : "2019-04-07T16:23:04.232Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities" : {
+        "hashtags" : [ ],
+        "symbols" : [ ],
+        "user_mentions" : [
+          {
+            "name" : "mihir",
+            "screen_name" : "KarandikarMihir",
+            "indices" : [
+              "0",
+              "16"
+            ],
+            "id_str" : "114431207",
+            "id" : "114431207"
+          },
+          {
+            "name" : "дэн",
+            "screen_name" : "dan_abramov",
+            "indices" : [
+              "17",
+              "29"
+            ],
+            "id_str" : "70345946",
+            "id" : "70345946"
+          }
+        ],
+        "urls" : [
+          {
+            "url" : "https://t.co/7KxeM4qDs4",
+            "expanded_url" : "https://youtu.be/jvP1cx1f5iA",
+            "display_url" : "youtu.be/jvP1cx1f5iA",
+            "indices" : [
+              "30",
+              "53"
+            ]
+          }
+        ]
+      },
+      "display_text_range" : [
+        "0",
+        "241"
+      ],
+      "favorite_count" : "5",
+      "in_reply_to_status_id_str" : "1114918083213385728",
+      "id_str" : "1114919024251432960",
+      "in_reply_to_user_id" : "114431207",
+      "truncated" : false,
+      "retweet_count" : "0",
+      "id" : "1114919024251432960",
+      "in_reply_to_status_id" : "1114918083213385728",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Apr 07 15:53:04 +0000 2019",
+      "favorited" : false,
+      "full_text" : "@KarandikarMihir @dan_abramov https://t.co/7KxeM4qDs4 An attempt to make the computer interface “easier” for normal home users.  It sat on top of the windows shell as a way to interact and organize your data and apps.  Pretty much a failure.",
+      "lang" : "en",
+      "in_reply_to_screen_name" : "KarandikarMihir",
+      "in_reply_to_user_id_str" : "114431207"
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
+            "1114917785505677312"
+          ],
+          "editableUntil" : "2019-04-07T16:18:08.892Z",
+          "editsRemaining" : "5",
+          "isEditEligible" : true
+        }
+      },
+      "retweeted" : false,
+      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "entities" : {
+        "user_mentions" : [
+          {
+            "name" : "дэн",
+            "screen_name" : "dan_abramov",
+            "indices" : [
+              "0",
+              "12"
+            ],
+            "id_str" : "70345946",
+            "id" : "70345946"
+          }
+        ],
+        "urls" : [ ],
+        "symbols" : [ ],
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/box464/status/1114917785505677312/photo/1",
+            "indices" : [
+              "34",
+              "57"
+            ],
+            "url" : "https://t.co/F4P28rASDl",
+            "media_url" : "http://pbs.twimg.com/media/D3j70DmU0AAINh-.jpg",
+            "id_str" : "1114917779512020992",
+            "id" : "1114917779512020992",
+            "media_url_https" : "https://pbs.twimg.com/media/D3j70DmU0AAINh-.jpg",
+            "sizes" : {
+              "small" : {
+                "w" : "640",
+                "h" : "480",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "640",
+                "h" : "480",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "640",
+                "h" : "480",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/F4P28rASDl"
+          }
+        ],
+        "hashtags" : [ ]
+      },
+      "display_text_range" : [
+        "0",
+        "57"
+      ],
+      "favorite_count" : "21",
+      "in_reply_to_status_id_str" : "1114884708247187457",
+      "id_str" : "1114917785505677312",
+      "in_reply_to_user_id" : "70345946",
+      "truncated" : false,
+      "retweet_count" : "1",
+      "id" : "1114917785505677312",
+      "in_reply_to_status_id" : "1114884708247187457",
+      "possibly_sensitive" : false,
+      "created_at" : "Sun Apr 07 15:48:08 +0000 2019",
+      "favorited" : false,
+      "full_text" : "@dan_abramov Microsoft Bob, y’all https://t.co/F4P28rASDl",
+      "lang" : "cy",
+      "in_reply_to_screen_name" : "dan_abramov",
+      "in_reply_to_user_id_str" : "70345946",
+      "extended_entities" : {
+        "media" : [
+          {
+            "expanded_url" : "https://twitter.com/box464/status/1114917785505677312/photo/1",
+            "indices" : [
+              "34",
+              "57"
+            ],
+            "url" : "https://t.co/F4P28rASDl",
+            "media_url" : "http://pbs.twimg.com/media/D3j70DmU0AAINh-.jpg",
+            "id_str" : "1114917779512020992",
+            "id" : "1114917779512020992",
+            "media_url_https" : "https://pbs.twimg.com/media/D3j70DmU0AAINh-.jpg",
+            "sizes" : {
+              "small" : {
+                "w" : "640",
+                "h" : "480",
+                "resize" : "fit"
+              },
+              "large" : {
+                "w" : "640",
+                "h" : "480",
+                "resize" : "fit"
+              },
+              "medium" : {
+                "w" : "640",
+                "h" : "480",
+                "resize" : "fit"
+              },
+              "thumb" : {
+                "w" : "150",
+                "h" : "150",
+                "resize" : "crop"
+              }
+            },
+            "type" : "photo",
+            "display_url" : "pic.twitter.com/F4P28rASDl"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "tweet" : {
+      "edit_info" : {
+        "initial" : {
+          "editTweetIds" : [
             "1098045959769075713"
           ],
           "editableUntil" : "2019-02-20T02:55:32.173Z",
@@ -2543,10 +3555,10 @@ module.exports = [
               "141"
             ],
             "url" : "https://t.co/i6qeEYAhlC",
-            "media_url" : "http://pbs.twimg.com/media/DxnexfuU8AAoW0F.jpg",
+            "media_url" : "http://pbs.twimg.com/media/DxnexfuU8AASwuU.jpg",
             "id_str" : "1088145726897451008",
             "id" : "1088145726897451008",
-            "media_url_https" : "https://pbs.twimg.com/media/DxnexfuU8AAoW0F.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/DxnexfuU8AASwuU.jpg",
             "sizes" : {
               "medium" : {
                 "w" : "1200",
@@ -2606,10 +3618,10 @@ module.exports = [
               "141"
             ],
             "url" : "https://t.co/i6qeEYAhlC",
-            "media_url" : "http://pbs.twimg.com/media/DxnexfuU8AAoW0F.jpg",
+            "media_url" : "http://pbs.twimg.com/media/DxnexfuU8AASwuU.jpg",
             "id_str" : "1088145726897451008",
             "id" : "1088145726897451008",
-            "media_url_https" : "https://pbs.twimg.com/media/DxnexfuU8AAoW0F.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/DxnexfuU8AASwuU.jpg",
             "sizes" : {
               "medium" : {
                 "w" : "1200",
@@ -3135,10 +4147,10 @@ module.exports = [
               "113"
             ],
             "url" : "https://t.co/PjDcNpJoS6",
-            "media_url" : "http://pbs.twimg.com/media/DVTD9TDWkAAQQ9Z.jpg",
+            "media_url" : "http://pbs.twimg.com/media/DVTD9TDWkAAKlOO.jpg",
             "id_str" : "960608078390530048",
             "id" : "960608078390530048",
-            "media_url_https" : "https://pbs.twimg.com/media/DVTD9TDWkAAQQ9Z.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/DVTD9TDWkAAKlOO.jpg",
             "sizes" : {
               "medium" : {
                 "w" : "1200",
@@ -3198,10 +4210,10 @@ module.exports = [
               "113"
             ],
             "url" : "https://t.co/PjDcNpJoS6",
-            "media_url" : "http://pbs.twimg.com/media/DVTD9TDWkAAQQ9Z.jpg",
+            "media_url" : "http://pbs.twimg.com/media/DVTD9TDWkAAKlOO.jpg",
             "id_str" : "960608078390530048",
             "id" : "960608078390530048",
-            "media_url_https" : "https://pbs.twimg.com/media/DVTD9TDWkAAQQ9Z.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/DVTD9TDWkAAKlOO.jpg",
             "sizes" : {
               "medium" : {
                 "w" : "1200",
@@ -3257,10 +4269,10 @@ module.exports = [
               "92"
             ],
             "url" : "https://t.co/N2NtPSOx4W",
-            "media_url" : "http://pbs.twimg.com/media/DVMk48NW4AA_QkJ.jpg",
+            "media_url" : "http://pbs.twimg.com/media/DVMk48NW4AAbXrP.jpg",
             "id_str" : "960151706213474304",
             "id" : "960151706213474304",
-            "media_url_https" : "https://pbs.twimg.com/media/DVMk48NW4AA_QkJ.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/DVMk48NW4AAbXrP.jpg",
             "sizes" : {
               "large" : {
                 "w" : "2048",
@@ -3301,7 +4313,7 @@ module.exports = [
         "0",
         "92"
       ],
-      "favorite_count" : "11",
+      "favorite_count" : "10",
       "id_str" : "960151722999021568",
       "truncated" : false,
       "retweet_count" : "3",
@@ -3320,10 +4332,10 @@ module.exports = [
               "92"
             ],
             "url" : "https://t.co/N2NtPSOx4W",
-            "media_url" : "http://pbs.twimg.com/media/DVMk48NW4AA_QkJ.jpg",
+            "media_url" : "http://pbs.twimg.com/media/DVMk48NW4AAbXrP.jpg",
             "id_str" : "960151706213474304",
             "id" : "960151706213474304",
-            "media_url_https" : "https://pbs.twimg.com/media/DVMk48NW4AA_QkJ.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/DVMk48NW4AAbXrP.jpg",
             "sizes" : {
               "large" : {
                 "w" : "2048",
@@ -3379,10 +4391,10 @@ module.exports = [
               "84"
             ],
             "url" : "https://t.co/GeBxrpP446",
-            "media_url" : "http://pbs.twimg.com/media/DVMiEUkVMAAJUed.jpg",
+            "media_url" : "http://pbs.twimg.com/media/DVMiEUkVMAAb7h8.jpg",
             "id_str" : "960148603195961344",
             "id" : "960148603195961344",
-            "media_url_https" : "https://pbs.twimg.com/media/DVMiEUkVMAAJUed.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/DVMiEUkVMAAb7h8.jpg",
             "sizes" : {
               "small" : {
                 "w" : "680",
@@ -3442,10 +4454,10 @@ module.exports = [
               "84"
             ],
             "url" : "https://t.co/GeBxrpP446",
-            "media_url" : "http://pbs.twimg.com/media/DVMiEUkVMAAJUed.jpg",
+            "media_url" : "http://pbs.twimg.com/media/DVMiEUkVMAAb7h8.jpg",
             "id_str" : "960148603195961344",
             "id" : "960148603195961344",
-            "media_url_https" : "https://pbs.twimg.com/media/DVMiEUkVMAAJUed.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/DVMiEUkVMAAb7h8.jpg",
             "sizes" : {
               "small" : {
                 "w" : "680",
@@ -3681,10 +4693,10 @@ module.exports = [
               "156"
             ],
             "url" : "https://t.co/l8XldmSqAQ",
-            "media_url" : "http://pbs.twimg.com/media/DJ3rOraVoAAe3b0.jpg",
+            "media_url" : "http://pbs.twimg.com/media/DJ3rOraVoAA92kQ.jpg",
             "id_str" : "909141337202597888",
             "id" : "909141337202597888",
-            "media_url_https" : "https://pbs.twimg.com/media/DJ3rOraVoAAe3b0.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/DJ3rOraVoAA92kQ.jpg",
             "sizes" : {
               "small" : {
                 "w" : "576",
@@ -3744,10 +4756,10 @@ module.exports = [
               "156"
             ],
             "url" : "https://t.co/l8XldmSqAQ",
-            "media_url" : "http://pbs.twimg.com/media/DJ3rOraVoAAe3b0.jpg",
+            "media_url" : "http://pbs.twimg.com/media/DJ3rOraVoAA92kQ.jpg",
             "id_str" : "909141337202597888",
             "id" : "909141337202597888",
-            "media_url_https" : "https://pbs.twimg.com/media/DJ3rOraVoAAe3b0.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/DJ3rOraVoAA92kQ.jpg",
             "sizes" : {
               "small" : {
                 "w" : "576",
@@ -4223,10 +5235,10 @@ module.exports = [
               "64"
             ],
             "url" : "https://t.co/ogdSERHlj2",
-            "media_url" : "http://pbs.twimg.com/media/C8mLGTBW0AABs_w.jpg",
+            "media_url" : "http://pbs.twimg.com/media/C8mLGTBW0AA8IeE.jpg",
             "id_str" : "849362945037488128",
             "id" : "849362945037488128",
-            "media_url_https" : "https://pbs.twimg.com/media/C8mLGTBW0AABs_w.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/C8mLGTBW0AA8IeE.jpg",
             "sizes" : {
               "small" : {
                 "w" : "516",
@@ -4278,10 +5290,10 @@ module.exports = [
               "64"
             ],
             "url" : "https://t.co/ogdSERHlj2",
-            "media_url" : "http://pbs.twimg.com/media/C8mLGTBW0AABs_w.jpg",
+            "media_url" : "http://pbs.twimg.com/media/C8mLGTBW0AA8IeE.jpg",
             "id_str" : "849362945037488128",
             "id" : "849362945037488128",
-            "media_url_https" : "https://pbs.twimg.com/media/C8mLGTBW0AABs_w.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/C8mLGTBW0AA8IeE.jpg",
             "sizes" : {
               "small" : {
                 "w" : "516",
@@ -4391,10 +5403,10 @@ module.exports = [
               "140"
             ],
             "url" : "https://t.co/j9dkanf1zi",
-            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/C8D24paXQAA6Z8_.jpg",
+            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/C8D24paXQAA-urA.jpg",
             "id_str" : "846948182995189760",
             "id" : "846948182995189760",
-            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/C8D24paXQAA6Z8_.jpg",
+            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/C8D24paXQAA-urA.jpg",
             "sizes" : {
               "medium" : {
                 "w" : "500",
@@ -4454,7 +5466,7 @@ module.exports = [
               "140"
             ],
             "url" : "https://t.co/j9dkanf1zi",
-            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/C8D24paXQAA6Z8_.jpg",
+            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/C8D24paXQAA-urA.jpg",
             "id_str" : "846948182995189760",
             "video_info" : {
               "aspect_ratio" : [
@@ -4465,12 +5477,12 @@ module.exports = [
                 {
                   "bitrate" : "0",
                   "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/tweet_video/C8D24paXQAA6Z8_.mp4"
+                  "url" : "https://video.twimg.com/tweet_video/C8D24paXQAA-urA.mp4"
                 }
               ]
             },
             "id" : "846948182995189760",
-            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/C8D24paXQAA6Z8_.jpg",
+            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/C8D24paXQAA-urA.jpg",
             "sizes" : {
               "medium" : {
                 "w" : "500",
@@ -4582,10 +5594,10 @@ module.exports = [
               "164"
             ],
             "url" : "https://t.co/7e6H60YOiF",
-            "media_url" : "http://pbs.twimg.com/media/C6fpgyeU0AAMfq2.jpg",
+            "media_url" : "http://pbs.twimg.com/media/C6fpgyeU0AA8ABF.jpg",
             "id_str" : "839896605041938432",
             "id" : "839896605041938432",
-            "media_url_https" : "https://pbs.twimg.com/media/C6fpgyeU0AAMfq2.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/C6fpgyeU0AA8ABF.jpg",
             "sizes" : {
               "small" : {
                 "w" : "550",
@@ -4645,10 +5657,10 @@ module.exports = [
               "164"
             ],
             "url" : "https://t.co/7e6H60YOiF",
-            "media_url" : "http://pbs.twimg.com/media/C6fpgyeU0AAMfq2.jpg",
+            "media_url" : "http://pbs.twimg.com/media/C6fpgyeU0AA8ABF.jpg",
             "id_str" : "839896605041938432",
             "id" : "839896605041938432",
-            "media_url_https" : "https://pbs.twimg.com/media/C6fpgyeU0AAMfq2.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/C6fpgyeU0AA8ABF.jpg",
             "sizes" : {
               "small" : {
                 "w" : "550",
@@ -5013,10 +6025,10 @@ module.exports = [
               "130"
             ],
             "url" : "https://t.co/kazeix6Uzf",
-            "media_url" : "http://pbs.twimg.com/media/CvJl1dcWAAA0pZl.jpg",
+            "media_url" : "http://pbs.twimg.com/media/CvJl1dcWAAAM9nJ.jpg",
             "id_str" : "788804853854240768",
             "id" : "788804853854240768",
-            "media_url_https" : "https://pbs.twimg.com/media/CvJl1dcWAAA0pZl.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CvJl1dcWAAAM9nJ.jpg",
             "sizes" : {
               "large" : {
                 "w" : "300",
@@ -5076,10 +6088,10 @@ module.exports = [
               "130"
             ],
             "url" : "https://t.co/kazeix6Uzf",
-            "media_url" : "http://pbs.twimg.com/media/CvJl1dcWAAA0pZl.jpg",
+            "media_url" : "http://pbs.twimg.com/media/CvJl1dcWAAAM9nJ.jpg",
             "id_str" : "788804853854240768",
             "id" : "788804853854240768",
-            "media_url_https" : "https://pbs.twimg.com/media/CvJl1dcWAAA0pZl.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CvJl1dcWAAAM9nJ.jpg",
             "sizes" : {
               "large" : {
                 "w" : "300",
@@ -5146,10 +6158,10 @@ module.exports = [
               "92"
             ],
             "url" : "https://t.co/9fPtkZ0waP",
-            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/CvFHvt6WcAEa84E.jpg",
+            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/CvFHvt6WcAEcOEW.jpg",
             "id_str" : "788490294870306817",
             "id" : "788490294870306817",
-            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/CvFHvt6WcAEa84E.jpg",
+            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/CvFHvt6WcAEcOEW.jpg",
             "sizes" : {
               "large" : {
                 "w" : "634",
@@ -5209,7 +6221,7 @@ module.exports = [
               "92"
             ],
             "url" : "https://t.co/9fPtkZ0waP",
-            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/CvFHvt6WcAEa84E.jpg",
+            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/CvFHvt6WcAEcOEW.jpg",
             "id_str" : "788490294870306817",
             "video_info" : {
               "aspect_ratio" : [
@@ -5220,12 +6232,12 @@ module.exports = [
                 {
                   "bitrate" : "0",
                   "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/tweet_video/CvFHvt6WcAEa84E.mp4"
+                  "url" : "https://video.twimg.com/tweet_video/CvFHvt6WcAEcOEW.mp4"
                 }
               ]
             },
             "id" : "788490294870306817",
-            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/CvFHvt6WcAEa84E.jpg",
+            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/CvFHvt6WcAEcOEW.jpg",
             "sizes" : {
               "large" : {
                 "w" : "634",
@@ -5292,10 +6304,10 @@ module.exports = [
               "120"
             ],
             "url" : "https://t.co/enQbcdHqNT",
-            "media_url" : "http://pbs.twimg.com/media/CvDaYkjWAAEjX-l.jpg",
+            "media_url" : "http://pbs.twimg.com/media/CvDaYkjWAAEQUDZ.jpg",
             "id_str" : "788370050453471233",
             "id" : "788370050453471233",
-            "media_url_https" : "https://pbs.twimg.com/media/CvDaYkjWAAEjX-l.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CvDaYkjWAAEQUDZ.jpg",
             "sizes" : {
               "medium" : {
                 "w" : "1200",
@@ -5355,10 +6367,10 @@ module.exports = [
               "120"
             ],
             "url" : "https://t.co/enQbcdHqNT",
-            "media_url" : "http://pbs.twimg.com/media/CvDaYkjWAAEjX-l.jpg",
+            "media_url" : "http://pbs.twimg.com/media/CvDaYkjWAAEQUDZ.jpg",
             "id_str" : "788370050453471233",
             "id" : "788370050453471233",
-            "media_url_https" : "https://pbs.twimg.com/media/CvDaYkjWAAEjX-l.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/CvDaYkjWAAEQUDZ.jpg",
             "sizes" : {
               "medium" : {
                 "w" : "1200",
@@ -5414,10 +6426,10 @@ module.exports = [
               "75"
             ],
             "url" : "https://t.co/br5iGbFw0R",
-            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/Cu_tcEMWAAACzi8.jpg",
+            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/Cu_tcEMWAAANVs3.jpg",
             "id_str" : "788109526230761472",
             "id" : "788109526230761472",
-            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/Cu_tcEMWAAACzi8.jpg",
+            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/Cu_tcEMWAAANVs3.jpg",
             "sizes" : {
               "small" : {
                 "w" : "390",
@@ -5477,7 +6489,7 @@ module.exports = [
               "75"
             ],
             "url" : "https://t.co/br5iGbFw0R",
-            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/Cu_tcEMWAAACzi8.jpg",
+            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/Cu_tcEMWAAANVs3.jpg",
             "id_str" : "788109526230761472",
             "video_info" : {
               "aspect_ratio" : [
@@ -5488,12 +6500,12 @@ module.exports = [
                 {
                   "bitrate" : "0",
                   "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/tweet_video/Cu_tcEMWAAACzi8.mp4"
+                  "url" : "https://video.twimg.com/tweet_video/Cu_tcEMWAAANVs3.mp4"
                 }
               ]
             },
             "id" : "788109526230761472",
-            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/Cu_tcEMWAAACzi8.jpg",
+            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/Cu_tcEMWAAANVs3.jpg",
             "sizes" : {
               "small" : {
                 "w" : "390",
@@ -5592,10 +6604,10 @@ module.exports = [
               "78"
             ],
             "url" : "https://t.co/b7eRDdMqzh",
-            "media_url" : "http://pbs.twimg.com/media/Cu_DUZuXYAAy-pJ.jpg",
+            "media_url" : "http://pbs.twimg.com/media/Cu_DUZuXYAAhIGc.jpg",
             "id_str" : "788063215083282432",
             "id" : "788063215083282432",
-            "media_url_https" : "https://pbs.twimg.com/media/Cu_DUZuXYAAy-pJ.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/Cu_DUZuXYAAhIGc.jpg",
             "sizes" : {
               "small" : {
                 "w" : "680",
@@ -5655,10 +6667,10 @@ module.exports = [
               "78"
             ],
             "url" : "https://t.co/b7eRDdMqzh",
-            "media_url" : "http://pbs.twimg.com/media/Cu_DUZuXYAAy-pJ.jpg",
+            "media_url" : "http://pbs.twimg.com/media/Cu_DUZuXYAAhIGc.jpg",
             "id_str" : "788063215083282432",
             "id" : "788063215083282432",
-            "media_url_https" : "https://pbs.twimg.com/media/Cu_DUZuXYAAy-pJ.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/Cu_DUZuXYAAhIGc.jpg",
             "sizes" : {
               "small" : {
                 "w" : "680",
@@ -5714,10 +6726,10 @@ module.exports = [
               "99"
             ],
             "url" : "https://t.co/fsWeoAYfZv",
-            "media_url" : "http://pbs.twimg.com/media/Cu-voKFWgAAD6Aa.jpg",
+            "media_url" : "http://pbs.twimg.com/media/Cu-voKFWgAAFSpA.jpg",
             "id_str" : "788041564249554944",
             "id" : "788041564249554944",
-            "media_url_https" : "https://pbs.twimg.com/media/Cu-voKFWgAAD6Aa.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/Cu-voKFWgAAFSpA.jpg",
             "sizes" : {
               "medium" : {
                 "w" : "900",
@@ -5777,10 +6789,10 @@ module.exports = [
               "99"
             ],
             "url" : "https://t.co/fsWeoAYfZv",
-            "media_url" : "http://pbs.twimg.com/media/Cu-voKFWgAAD6Aa.jpg",
+            "media_url" : "http://pbs.twimg.com/media/Cu-voKFWgAAFSpA.jpg",
             "id_str" : "788041564249554944",
             "id" : "788041564249554944",
-            "media_url_https" : "https://pbs.twimg.com/media/Cu-voKFWgAAD6Aa.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/Cu-voKFWgAAFSpA.jpg",
             "sizes" : {
               "medium" : {
                 "w" : "900",
@@ -5933,10 +6945,10 @@ module.exports = [
               "75"
             ],
             "url" : "https://t.co/jIYSuPOKI1",
-            "media_url" : "http://pbs.twimg.com/media/Cu-NX0cXYAAhoPe.jpg",
+            "media_url" : "http://pbs.twimg.com/media/Cu-NX0cXYAAw5o-.jpg",
             "id_str" : "788003900167249920",
             "id" : "788003900167249920",
-            "media_url_https" : "https://pbs.twimg.com/media/Cu-NX0cXYAAhoPe.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/Cu-NX0cXYAAw5o-.jpg",
             "sizes" : {
               "medium" : {
                 "w" : "1200",
@@ -5996,10 +7008,10 @@ module.exports = [
               "75"
             ],
             "url" : "https://t.co/jIYSuPOKI1",
-            "media_url" : "http://pbs.twimg.com/media/Cu-NX0cXYAAhoPe.jpg",
+            "media_url" : "http://pbs.twimg.com/media/Cu-NX0cXYAAw5o-.jpg",
             "id_str" : "788003900167249920",
             "id" : "788003900167249920",
-            "media_url_https" : "https://pbs.twimg.com/media/Cu-NX0cXYAAhoPe.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/Cu-NX0cXYAAw5o-.jpg",
             "sizes" : {
               "medium" : {
                 "w" : "1200",
@@ -6249,10 +7261,10 @@ module.exports = [
               "139"
             ],
             "url" : "https://t.co/YeUpbhtdiE",
-            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/CnDdrE6UMAADCcf.jpg",
+            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/CnDdrE6UMAA3-rz.jpg",
             "id_str" : "752344869893320704",
             "id" : "752344869893320704",
-            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/CnDdrE6UMAADCcf.jpg",
+            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/CnDdrE6UMAA3-rz.jpg",
             "sizes" : {
               "large" : {
                 "w" : "500",
@@ -6312,7 +7324,7 @@ module.exports = [
               "139"
             ],
             "url" : "https://t.co/YeUpbhtdiE",
-            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/CnDdrE6UMAADCcf.jpg",
+            "media_url" : "http://pbs.twimg.com/tweet_video_thumb/CnDdrE6UMAA3-rz.jpg",
             "id_str" : "752344869893320704",
             "video_info" : {
               "aspect_ratio" : [
@@ -6323,12 +7335,12 @@ module.exports = [
                 {
                   "bitrate" : "0",
                   "content_type" : "video/mp4",
-                  "url" : "https://video.twimg.com/tweet_video/CnDdrE6UMAADCcf.mp4"
+                  "url" : "https://video.twimg.com/tweet_video/CnDdrE6UMAA3-rz.mp4"
                 }
               ]
             },
             "id" : "752344869893320704",
-            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/CnDdrE6UMAADCcf.jpg",
+            "media_url_https" : "https://pbs.twimg.com/tweet_video_thumb/CnDdrE6UMAA3-rz.jpg",
             "sizes" : {
               "large" : {
                 "w" : "500",
@@ -6663,10 +7675,10 @@ module.exports = [
               "140"
             ],
             "url" : "https://t.co/RXVew62VZc",
-            "media_url" : "http://pbs.twimg.com/media/ClppFvBVYAAXd3Y.jpg",
+            "media_url" : "http://pbs.twimg.com/media/ClppFvBVYAAEELy.jpg",
             "id_str" : "746024235525562368",
             "id" : "746024235525562368",
-            "media_url_https" : "https://pbs.twimg.com/media/ClppFvBVYAAXd3Y.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/ClppFvBVYAAEELy.jpg",
             "sizes" : {
               "large" : {
                 "w" : "2048",
@@ -6726,10 +7738,10 @@ module.exports = [
               "140"
             ],
             "url" : "https://t.co/RXVew62VZc",
-            "media_url" : "http://pbs.twimg.com/media/ClppFvBVYAAXd3Y.jpg",
+            "media_url" : "http://pbs.twimg.com/media/ClppFvBVYAAEELy.jpg",
             "id_str" : "746024235525562368",
             "id" : "746024235525562368",
-            "media_url_https" : "https://pbs.twimg.com/media/ClppFvBVYAAXd3Y.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/ClppFvBVYAAEELy.jpg",
             "sizes" : {
               "large" : {
                 "w" : "2048",
@@ -6762,10 +7774,10 @@ module.exports = [
               "140"
             ],
             "url" : "https://t.co/RXVew62VZc",
-            "media_url" : "http://pbs.twimg.com/media/ClppFvuUoAA5Oup.jpg",
+            "media_url" : "http://pbs.twimg.com/media/ClppFvuUoAAe2_a.jpg",
             "id_str" : "746024235714256896",
             "id" : "746024235714256896",
-            "media_url_https" : "https://pbs.twimg.com/media/ClppFvuUoAA5Oup.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/ClppFvuUoAAe2_a.jpg",
             "sizes" : {
               "large" : {
                 "w" : "2048",
@@ -6798,10 +7810,10 @@ module.exports = [
               "140"
             ],
             "url" : "https://t.co/RXVew62VZc",
-            "media_url" : "http://pbs.twimg.com/media/ClppFwfUYAENXoF.jpg",
+            "media_url" : "http://pbs.twimg.com/media/ClppFwfUYAE5JXU.jpg",
             "id_str" : "746024235919761409",
             "id" : "746024235919761409",
-            "media_url_https" : "https://pbs.twimg.com/media/ClppFwfUYAENXoF.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/ClppFwfUYAE5JXU.jpg",
             "sizes" : {
               "large" : {
                 "w" : "2048",
@@ -6834,10 +7846,10 @@ module.exports = [
               "140"
             ],
             "url" : "https://t.co/RXVew62VZc",
-            "media_url" : "http://pbs.twimg.com/media/ClppFzUUYAEv3bJ.jpg",
+            "media_url" : "http://pbs.twimg.com/media/ClppFzUUYAElaA2.jpg",
             "id_str" : "746024236678930433",
             "id" : "746024236678930433",
-            "media_url_https" : "https://pbs.twimg.com/media/ClppFzUUYAEv3bJ.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/ClppFzUUYAElaA2.jpg",
             "sizes" : {
               "small" : {
                 "w" : "680",
@@ -6893,10 +7905,10 @@ module.exports = [
               "117"
             ],
             "url" : "https://t.co/ofDvCy8Phr",
-            "media_url" : "http://pbs.twimg.com/media/ClpOwz6VEAE0lTQ.jpg",
+            "media_url" : "http://pbs.twimg.com/media/ClpOwz6VEAENEKP.jpg",
             "id_str" : "745995288758784001",
             "id" : "745995288758784001",
-            "media_url_https" : "https://pbs.twimg.com/media/ClpOwz6VEAE0lTQ.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/ClpOwz6VEAENEKP.jpg",
             "sizes" : {
               "large" : {
                 "w" : "2048",
@@ -6956,10 +7968,10 @@ module.exports = [
               "117"
             ],
             "url" : "https://t.co/ofDvCy8Phr",
-            "media_url" : "http://pbs.twimg.com/media/ClpOwz6VEAE0lTQ.jpg",
+            "media_url" : "http://pbs.twimg.com/media/ClpOwz6VEAENEKP.jpg",
             "id_str" : "745995288758784001",
             "id" : "745995288758784001",
-            "media_url_https" : "https://pbs.twimg.com/media/ClpOwz6VEAE0lTQ.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/ClpOwz6VEAENEKP.jpg",
             "sizes" : {
               "large" : {
                 "w" : "2048",
@@ -7015,10 +8027,10 @@ module.exports = [
               "126"
             ],
             "url" : "https://t.co/799yciKoeD",
-            "media_url" : "http://pbs.twimg.com/media/ClpHqswUsAE5pg4.jpg",
+            "media_url" : "http://pbs.twimg.com/media/ClpHqswUsAEmLpC.jpg",
             "id_str" : "745987487177158657",
             "id" : "745987487177158657",
-            "media_url_https" : "https://pbs.twimg.com/media/ClpHqswUsAE5pg4.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/ClpHqswUsAEmLpC.jpg",
             "sizes" : {
               "small" : {
                 "w" : "680",
@@ -7078,10 +8090,10 @@ module.exports = [
               "126"
             ],
             "url" : "https://t.co/799yciKoeD",
-            "media_url" : "http://pbs.twimg.com/media/ClpHqswUsAE5pg4.jpg",
+            "media_url" : "http://pbs.twimg.com/media/ClpHqswUsAEmLpC.jpg",
             "id_str" : "745987487177158657",
             "id" : "745987487177158657",
-            "media_url_https" : "https://pbs.twimg.com/media/ClpHqswUsAE5pg4.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/ClpHqswUsAEmLpC.jpg",
             "sizes" : {
               "small" : {
                 "w" : "680",
@@ -7402,10 +8414,10 @@ module.exports = [
               "86"
             ],
             "url" : "https://t.co/xKnZ4yufQo",
-            "media_url" : "http://pbs.twimg.com/media/Ch4D1UYVEAASql1.jpg",
+            "media_url" : "http://pbs.twimg.com/media/Ch4D1UYVEAAEjAQ.jpg",
             "id_str" : "729024404219301888",
             "id" : "729024404219301888",
-            "media_url_https" : "https://pbs.twimg.com/media/Ch4D1UYVEAASql1.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/Ch4D1UYVEAAEjAQ.jpg",
             "sizes" : {
               "small" : {
                 "w" : "680",
@@ -7465,10 +8477,10 @@ module.exports = [
               "86"
             ],
             "url" : "https://t.co/xKnZ4yufQo",
-            "media_url" : "http://pbs.twimg.com/media/Ch4D1UYVEAASql1.jpg",
+            "media_url" : "http://pbs.twimg.com/media/Ch4D1UYVEAAEjAQ.jpg",
             "id_str" : "729024404219301888",
             "id" : "729024404219301888",
-            "media_url_https" : "https://pbs.twimg.com/media/Ch4D1UYVEAASql1.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/Ch4D1UYVEAAEjAQ.jpg",
             "sizes" : {
               "small" : {
                 "w" : "680",
@@ -7541,88 +8553,6 @@ module.exports = [
       "created_at" : "Sat Mar 05 21:21:10 +0000 2016",
       "favorited" : false,
       "full_text" : "I guess it was inevitable.  Emojicon Programming Languages.  https://t.co/jZTvxLXbvc",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "694701980191756288"
-          ],
-          "editableUntil" : "2016-02-03T02:30:33.673Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "STEM",
-            "indices" : [
-              "43",
-              "48"
-            ]
-          },
-          {
-            "text" : "WomenInSTEM",
-            "indices" : [
-              "81",
-              "93"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Microsoft New England",
-            "screen_name" : "MSNewEngland",
-            "indices" : [
-              "3",
-              "16"
-            ],
-            "id_str" : "24028758",
-            "id" : "24028758"
-          },
-          {
-            "name" : "BHW Group",
-            "screen_name" : "BHWGroup",
-            "indices" : [
-              "69",
-              "78"
-            ],
-            "id_str" : "700881980",
-            "id" : "700881980"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "https://t.co/nxPHWenqcx",
-            "expanded_url" : "http://bit.ly/1RWUsTF",
-            "display_url" : "bit.ly/1RWUsTF",
-            "indices" : [
-              "116",
-              "139"
-            ]
-          }
-        ]
-      },
-      "display_text_range" : [
-        "0",
-        "139"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "694701980191756288",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "694701980191756288",
-      "possibly_sensitive" : false,
-      "created_at" : "Wed Feb 03 02:00:33 +0000 2016",
-      "favorited" : false,
-      "full_text" : "RT @MSNewEngland: Are you a women studying #STEM?\n\nApply now for the @BHWGroup's #WomenInSTEM academic scholarship: https://t.co/nxPHWenqcx",
       "lang" : "en"
     }
   },
@@ -8094,149 +9024,6 @@ module.exports = [
       "edit_info" : {
         "initial" : {
           "editTweetIds" : [
-            "558138723679096832"
-          ],
-          "editableUntil" : "2015-01-22T06:16:56.098Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
-      "entities" : {
-        "user_mentions" : [
-          {
-            "name" : "Gabe Sumner",
-            "screen_name" : "gabesumner",
-            "indices" : [
-              "3",
-              "14"
-            ],
-            "id_str" : "17089877",
-            "id" : "17089877"
-          }
-        ],
-        "urls" : [
-          {
-            "url" : "http://t.co/1xZDVJPtAI",
-            "expanded_url" : "http://thetomorrowlab.com/2015/01/why-developers-hate-being-interrupted/",
-            "display_url" : "thetomorrowlab.com/2015/01/why-de…",
-            "indices" : [
-              "56",
-              "78"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/gabesumner/status/552540673027874817/photo/1",
-            "source_status_id" : "552540673027874817",
-            "indices" : [
-              "79",
-              "101"
-            ],
-            "url" : "http://t.co/RDskpO5SI0",
-            "media_url" : "http://pbs.twimg.com/media/B6sE0HHCQAAbGkS.jpg",
-            "id_str" : "552540672591282176",
-            "source_user_id" : "17089877",
-            "id" : "552540672591282176",
-            "media_url_https" : "https://pbs.twimg.com/media/B6sE0HHCQAAbGkS.jpg",
-            "source_user_id_str" : "17089877",
-            "sizes" : {
-              "small" : {
-                "w" : "177",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "312",
-                "h" : "1200",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "533",
-                "h" : "2048",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "552540673027874817",
-            "display_url" : "pic.twitter.com/RDskpO5SI0"
-          }
-        ],
-        "hashtags" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "101"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "558138723679096832",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "558138723679096832",
-      "possibly_sensitive" : false,
-      "created_at" : "Thu Jan 22 05:46:56 +0000 2015",
-      "favorited" : false,
-      "full_text" : "RT @gabesumner: Why developers hate being interrupted - http://t.co/1xZDVJPtAI http://t.co/RDskpO5SI0",
-      "lang" : "en",
-      "extended_entities" : {
-        "media" : [
-          {
-            "expanded_url" : "https://twitter.com/gabesumner/status/552540673027874817/photo/1",
-            "source_status_id" : "552540673027874817",
-            "indices" : [
-              "79",
-              "101"
-            ],
-            "url" : "http://t.co/RDskpO5SI0",
-            "media_url" : "http://pbs.twimg.com/media/B6sE0HHCQAAbGkS.jpg",
-            "id_str" : "552540672591282176",
-            "source_user_id" : "17089877",
-            "id" : "552540672591282176",
-            "media_url_https" : "https://pbs.twimg.com/media/B6sE0HHCQAAbGkS.jpg",
-            "source_user_id_str" : "17089877",
-            "sizes" : {
-              "small" : {
-                "w" : "177",
-                "h" : "680",
-                "resize" : "fit"
-              },
-              "medium" : {
-                "w" : "312",
-                "h" : "1200",
-                "resize" : "fit"
-              },
-              "large" : {
-                "w" : "533",
-                "h" : "2048",
-                "resize" : "fit"
-              },
-              "thumb" : {
-                "w" : "150",
-                "h" : "150",
-                "resize" : "crop"
-              }
-            },
-            "type" : "photo",
-            "source_status_id_str" : "552540673027874817",
-            "display_url" : "pic.twitter.com/RDskpO5SI0"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
             "556822716183891968"
           ],
           "editableUntil" : "2015-01-18T15:07:35.461Z",
@@ -8327,7 +9114,7 @@ module.exports = [
       "entities" : {
         "user_mentions" : [
           {
-            "name" : "Joe Walnes",
+            "name" : "@joewalnes@mstdn.social",
             "screen_name" : "joewalnes",
             "indices" : [
               "3",
@@ -10845,10 +11632,10 @@ module.exports = [
               "136"
             ],
             "url" : "http://t.co/rEWFgQc",
-            "media_url" : "http://pbs.twimg.com/media/AYmVaFWCMAA38el.jpg",
+            "media_url" : "http://pbs.twimg.com/media/AYmVaFWCMAAfVz7.jpg",
             "id_str" : "110783941191020544",
             "id" : "110783941191020544",
-            "media_url_https" : "https://pbs.twimg.com/media/AYmVaFWCMAA38el.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/AYmVaFWCMAAfVz7.jpg",
             "sizes" : {
               "large" : {
                 "w" : "2048",
@@ -10908,10 +11695,10 @@ module.exports = [
               "136"
             ],
             "url" : "http://t.co/rEWFgQc",
-            "media_url" : "http://pbs.twimg.com/media/AYmVaFWCMAA38el.jpg",
+            "media_url" : "http://pbs.twimg.com/media/AYmVaFWCMAAfVz7.jpg",
             "id_str" : "110783941191020544",
             "id" : "110783941191020544",
-            "media_url_https" : "https://pbs.twimg.com/media/AYmVaFWCMAA38el.jpg",
+            "media_url_https" : "https://pbs.twimg.com/media/AYmVaFWCMAAfVz7.jpg",
             "sizes" : {
               "large" : {
                 "w" : "2048",
@@ -10958,18 +11745,7 @@ module.exports = [
       "entities" : {
         "hashtags" : [ ],
         "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Paula lewis",
-            "screen_name" : "lewisisms2011",
-            "indices" : [
-              "0",
-              "14"
-            ],
-            "id_str" : "368119559",
-            "id" : "368119559"
-          }
-        ],
+        "user_mentions" : [ ],
         "urls" : [ ]
       },
       "display_text_range" : [
@@ -10988,7 +11764,6 @@ module.exports = [
       "favorited" : false,
       "full_text" : "@lewisisms2011 I don't know for sure, sorry.  So many fires.",
       "lang" : "en",
-      "in_reply_to_screen_name" : "lewisisms2011",
       "in_reply_to_user_id_str" : "368119559"
     }
   },
@@ -11430,423 +12205,6 @@ module.exports = [
       "created_at" : "Wed Apr 13 14:22:05 +0000 2011",
       "favorited" : false,
       "full_text" : "The Top 8 Placeholder Services for Web Designers | Nettuts+ http://t.co/rcp7fxB",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "5621842414"
-          ],
-          "editableUntil" : "2009-11-11T16:24:09.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "entities" : {
-        "hashtags" : [
-          {
-            "text" : "imac",
-            "indices" : [
-              "4",
-              "9"
-            ]
-          }
-        ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "98"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "5621842414",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "5621842414",
-      "created_at" : "Wed Nov 11 15:54:09 +0000 2009",
-      "favorited" : false,
-      "full_text" : "The #imac i7 has shipped!  I am preparing my Nintendo 64 kid imitation for the delivery on Friday.",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "5567057696"
-          ],
-          "editableUntil" : "2009-11-09T20:17:12.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "boxee help",
-            "screen_name" : "boxee_help",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "16612543",
-            "id" : "16612543"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "35"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "5563740835",
-      "id_str" : "5567057696",
-      "in_reply_to_user_id" : "16612543",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "5567057696",
-      "in_reply_to_status_id" : "5563740835",
-      "created_at" : "Mon Nov 09 19:47:12 +0000 2009",
-      "favorited" : false,
-      "full_text" : "@boxee_help That worked!  You rock.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "boxee_help",
-      "in_reply_to_user_id_str" : "16612543"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "5563549726"
-          ],
-          "editableUntil" : "2009-11-09T17:45:10.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "boxee help",
-            "screen_name" : "boxee_help",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "16612543",
-            "id" : "16612543"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "115"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "5563549726",
-      "in_reply_to_user_id" : "16612543",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "5563549726",
-      "created_at" : "Mon Nov 09 17:15:10 +0000 2009",
-      "favorited" : false,
-      "full_text" : "@boxee_help windows boxee, tv shows/movies showing up with correct names and episode/plot summaries, but no images.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "boxee_help",
-      "in_reply_to_user_id_str" : "16612543"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "5563445439"
-          ],
-          "editableUntil" : "2009-11-09T17:40:40.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "boxee help",
-            "screen_name" : "boxee_help",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "16612543",
-            "id" : "16612543"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "25"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "5554269115",
-      "id_str" : "5563445439",
-      "in_reply_to_user_id" : "16612543",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "5563445439",
-      "in_reply_to_status_id" : "5554269115",
-      "created_at" : "Mon Nov 09 17:10:40 +0000 2009",
-      "favorited" : false,
-      "full_text" : "@boxee_help done, thanks!",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "boxee_help",
-      "in_reply_to_user_id_str" : "16612543"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "5018533301"
-          ],
-          "editableUntil" : "2009-10-20T14:00:20.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "9to5Mac",
-            "screen_name" : "9to5mac",
-            "indices" : [
-              "0",
-              "8"
-            ],
-            "id_str" : "15944436",
-            "id" : "15944436"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "41"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "5018444837",
-      "id_str" : "5018533301",
-      "in_reply_to_user_id" : "15944436",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "5018533301",
-      "in_reply_to_status_id" : "5018444837",
-      "created_at" : "Tue Oct 20 13:30:20 +0000 2009",
-      "favorited" : false,
-      "full_text" : "@9to5mac Hong Kong store is down as well.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "9to5mac",
-      "in_reply_to_user_id_str" : "15944436"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "4668922977"
-          ],
-          "editableUntil" : "2009-10-07T00:43:27.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "94"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "4668922977",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "4668922977",
-      "created_at" : "Wed Oct 07 00:13:27 +0000 2009",
-      "favorited" : false,
-      "full_text" : "Why would I pay 1.29 for a ringtone version of a song I already bought for .99 cents.  Anyone?",
-      "lang" : "en"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "4553973388"
-          ],
-          "editableUntil" : "2009-10-02T15:12:46.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roger Sikes",
-            "screen_name" : "rogersikes",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "16247903",
-            "id" : "16247903"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "75"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "4552572945",
-      "id_str" : "4553973388",
-      "in_reply_to_user_id" : "16247903",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "4553973388",
-      "in_reply_to_status_id" : "4552572945",
-      "created_at" : "Fri Oct 02 14:42:46 +0000 2009",
-      "favorited" : false,
-      "full_text" : "@rogersikes No!  Not the Swine Flu I hope.  It's running rampant in Dallas.",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rogersikes",
-      "in_reply_to_user_id_str" : "16247903"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "2426347342"
-          ],
-          "editableUntil" : "2009-07-01T21:47:50.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [
-          {
-            "name" : "Roger Sikes",
-            "screen_name" : "rogersikes",
-            "indices" : [
-              "0",
-              "11"
-            ],
-            "id_str" : "16247903",
-            "id" : "16247903"
-          }
-        ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "57"
-      ],
-      "favorite_count" : "0",
-      "in_reply_to_status_id_str" : "2420619879",
-      "id_str" : "2426347342",
-      "in_reply_to_user_id" : "16247903",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "2426347342",
-      "in_reply_to_status_id" : "2420619879",
-      "created_at" : "Wed Jul 01 21:17:50 +0000 2009",
-      "favorited" : false,
-      "full_text" : "@rogersikes found fleet foxes recently, too, great stuff!",
-      "lang" : "en",
-      "in_reply_to_screen_name" : "rogersikes",
-      "in_reply_to_user_id_str" : "16247903"
-    }
-  },
-  {
-    "tweet" : {
-      "edit_info" : {
-        "initial" : {
-          "editTweetIds" : [
-            "1320251263"
-          ],
-          "editableUntil" : "2009-03-13T05:09:20.000Z",
-          "editsRemaining" : "5",
-          "isEditEligible" : true
-        }
-      },
-      "retweeted" : false,
-      "source" : "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
-      "entities" : {
-        "hashtags" : [ ],
-        "symbols" : [ ],
-        "user_mentions" : [ ],
-        "urls" : [ ]
-      },
-      "display_text_range" : [
-        "0",
-        "86"
-      ],
-      "favorite_count" : "0",
-      "id_str" : "1320251263",
-      "truncated" : false,
-      "retweet_count" : "0",
-      "id" : "1320251263",
-      "created_at" : "Fri Mar 13 04:39:20 +0000 2009",
-      "favorited" : false,
-      "full_text" : "likes Krod Mandoon: Series Preview on Boxee. check it out at http://tinyurl.com/cunfoc",
       "lang" : "en"
     }
   }
